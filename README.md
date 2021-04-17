@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OwenQing
+- 👋 Hi, I’m @owenqing
 - 👀 I’m interested in Golang and Python
 - 🌱 I’m currently learning Distributed System
 - 💞️ I’m looking to collaborate on ...
