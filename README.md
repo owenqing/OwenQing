@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @owenqing
-- 👀 I’m interested in Golang and Python
-- 🌱 I’m currently learning Distributed System
+- 👀 I’m interested in big data and distributed system
 
 
 <!---
